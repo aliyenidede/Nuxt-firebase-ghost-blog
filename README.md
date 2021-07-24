@@ -1,4 +1,4 @@
-# ghostBlog
+# Nuxt SSR Blog Project /w Ghost Headless CMS Deploying Firebase
 
 ## Build Setup
 
